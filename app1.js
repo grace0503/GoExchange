@@ -33,7 +33,7 @@ window.onload = function () {
         "一下期中考後AMSEP的交換計劃來了！不僅可以接待Incoming，也可以成為Outgoing，看到這個計畫的你，會打算….？",
         "周遭的同學陸陸續續在找實驗室，準備參加暑期研究計畫，對實驗室完全沒經驗的你會怎麼做呢？",
         "不小心趴在共筆上睡著了，醒來後發現大家都在哀居分享交換週心理測驗...?",
-        "PE X RE X AMSA 聯合舉辦的交換週，就在11/21~11/23盛大開跑啦！ 至instagram分享並標註＠csmumed_iac，可領時數1小時 ",
+        "PE X RE X AMSA 聯合舉辦的交換週，就在11/21~11/23盛大開跑啦！ 至instagram分享並標註＠csmumed_iac，可領小禮物！！ ",
       ];
       let chooseQue = [
         [
